@@ -1,0 +1,37 @@
+ /* the css below is for responsiveness on small screen devices */
+ /* the navbar */
+ .navbar .container .logo{
+     float: none;
+     text-align: center;
+ }
+ .navbar ul{
+     padding-bottom: 10px;
+ }
+ .navbar ul, .navbar ul li, .navbar ul li a{
+    float: none;
+}
+.navbar ul li a{
+    padding: 0;
+}
+/* the info section */
+.home-info .info-img{
+    display: none;
+}
+.home-info .info-content{
+    float: none;
+    width: 100%;
+}
+/* the boxes section */
+.box{
+    float: none;
+    width: 100%;
+}
+/* About page */
+/* the about info part */
+.about-info .info-right,.about-info .info-left{
+    float: none;
+    width: 100%;
+}
+.about-info .info-left h2{
+    text-align: center;
+}
